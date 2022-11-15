@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @trevorjburni
-- 👀 I’m interested in Web and Software Development.
-- 🌱 I’m currently learning Groovy and various PDF manipulation related tools.
-- 💞️ I’m looking to collaborate on Web Apps, games, and PDF related tools.
+- 👀 I’m interested in Web and Software Development
+- 🌱 I’m currently learning Groovy, and Java Python
+- 💞️ I’m looking to collaborate on Web Apps and games
 - 📫 How to reach me: email is best.
 
 <!---
