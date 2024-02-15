@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trevorjburni
 - 👀 I’m interested in Web and Software Development
-- 🌱 I’m currently learning Groovy, Java, and Python
+- 🌱 I’m know Groovy, Java, and actively re-learning Python
 - 💞️ I’m looking to collaborate on Web Apps and games
 - 📫 How to reach me: email is best
 
